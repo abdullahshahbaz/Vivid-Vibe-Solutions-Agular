@@ -155,7 +155,7 @@ p {
 
 .video_background,
 .video {
-	background: url('../../../../image.ibb.co/h0CXaw/photo_5.jpg') no-repeat 0 0;
+	/* background: url('../../../../image.ibb.co/h0CXaw/photo_5.jpg') no-repeat 0 0; */
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -191,12 +191,12 @@ p {
 	height: 100%;
 }
 .particles_effect .container {
-	background: url('../../../../image.ibb.co/cqRx8G/photo_3.jpg') no-repeat 0 0;
+	/* background: url('../../../../image.ibb.co/cqRx8G/photo_3.jpg') no-repeat 0 0; */
 	background-size: cover;
 	background-attachment: fixed;
 }
 .winter_effect .container {
-	background: url('../../../../image.ibb.co/knkeNb/photo_7.jpg') no-repeat 0 0;
+	/* background: url('../../../../image.ibb.co/knkeNb/photo_7.jpg') no-repeat 0 0; */
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -1552,7 +1552,7 @@ p {
 
 .subscribe_window .uk-modal-dialog {
 	padding: 120px 30px;
-	background: #333 url('../../../../image.ibb.co/hC3ATG/w_dialog.jpg') no-repeat center center;
+	/* background: #333 url('../../../../image.ibb.co/hC3ATG/w_dialog.jpg') no-repeat center center; */
 	background-size: cover;
 }
 .subscribe_window .uk-modal-dialog:before {
